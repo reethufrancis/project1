@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Training.Utilities/1.0.0": {
+        "dependencies": {
+          "Training.Interfaces": "1.0.0",
+          "Training.Models": "1.0.0"
+        },
+        "runtime": {
+          "Training.Utilities.dll": {}
+        }
+      },
+      "Training.Interfaces/1.0.0": {
+        "dependencies": {
+          "Training.Models": "1.0.0"
+        },
+        "runtime": {
+          "Training.Interfaces.dll": {}
+        }
+      },
+      "Training.Models/1.0.0": {
+        "runtime": {
+          "Training.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Training.Utilities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Training.Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Training.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

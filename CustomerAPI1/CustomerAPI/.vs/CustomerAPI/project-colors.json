@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9382015-a371-45cc-b0d0-3fa3ab5cbfaf": {
+      "ProjectGuid": "a9382015-a371-45cc-b0d0-3fa3ab5cbfaf",
+      "DisplayName": "FunctionApp1",
+      "ColorIndex": 0
+    },
+    "84c4e5ce-c37c-44f9-b9e1-bd50d5a33295": {
+      "ProjectGuid": "84c4e5ce-c37c-44f9-b9e1-bd50d5a33295",
+      "DisplayName": "Training.Customer.Web.Api",
+      "ColorIndex": 1
+    },
+    "832d7b0f-2b8a-416d-9864-dc049f01ff4a": {
+      "ProjectGuid": "832d7b0f-2b8a-416d-9864-dc049f01ff4a",
+      "DisplayName": "Training.CustomerAPI.Web.Function",
+      "ColorIndex": 2
+    },
+    "5c332d37-289b-48db-9c0d-4356857645d9": {
+      "ProjectGuid": "5c332d37-289b-48db-9c0d-4356857645d9",
+      "DisplayName": "Training.Models",
+      "ColorIndex": 3
+    },
+    "8cbd18ab-23e9-42e0-8613-906bbfff3e7f": {
+      "ProjectGuid": "8cbd18ab-23e9-42e0-8613-906bbfff3e7f",
+      "DisplayName": "Training.Interfaces",
+      "ColorIndex": 4
+    },
+    "54e0d838-eee6-4a85-bfa1-bad9b0ef19cc": {
+      "ProjectGuid": "54e0d838-eee6-4a85-bfa1-bad9b0ef19cc",
+      "DisplayName": "Training.Utilities",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

@@ -1,0 +1,170 @@
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\ref\Training.Utilities.dll
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+D:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+E:\Traning2\CustomerRestApi\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\User\Downloads\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\Nitha\Downloads\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\OneDrive\Desktop\pro1\pro1\CustomerAPI 08-07\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\nitha\Downloads\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\Asus\Downloads\CustomerAPI 4\CustomerAPI 4\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.deps.json
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.dll
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.dll
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Interfaces.pdb
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\bin\Debug\net6.0\Training.Models.pdb
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.AssemblyReference.cache
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfoInputs.cache
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.AssemblyInfo.cs
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.csproj.CopyComplete
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\refint\Training.Utilities.dll
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\Training.Utilities.pdb
+C:\Users\jithu\Downloads\CustomerAPI1\CustomerAPI\Training.Utilities\obj\Debug\net6.0\ref\Training.Utilities.dll

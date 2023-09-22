@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Utilities\\Training.Utilities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Interfaces\\Training.Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Interfaces\\Training.Interfaces.csproj",
+        "projectName": "Training.Interfaces",
+        "projectPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Interfaces\\Training.Interfaces.csproj",
+        "packagesPath": "C:\\Users\\jithu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jithu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj": {
+                "projectPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj",
+        "projectName": "Training.Models",
+        "projectPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj",
+        "packagesPath": "C:\\Users\\jithu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jithu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Utilities\\Training.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Utilities\\Training.Utilities.csproj",
+        "projectName": "Training.Utilities",
+        "projectPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Utilities\\Training.Utilities.csproj",
+        "packagesPath": "C:\\Users\\jithu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Utilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jithu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Interfaces\\Training.Interfaces.csproj": {
+                "projectPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Interfaces\\Training.Interfaces.csproj"
+              },
+              "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj": {
+                "projectPath": "C:\\Users\\jithu\\Downloads\\CustomerAPI1\\CustomerAPI\\Training.Models\\Training.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

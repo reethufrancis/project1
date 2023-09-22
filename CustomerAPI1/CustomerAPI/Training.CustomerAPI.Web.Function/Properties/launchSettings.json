@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Training.CustomerAPI.Web.Function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7021",
+      "launchBrowser": false
+    }
+  }
+}
