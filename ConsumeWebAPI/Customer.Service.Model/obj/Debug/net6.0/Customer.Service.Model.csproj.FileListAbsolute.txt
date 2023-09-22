@@ -1,0 +1,118 @@
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\user\Downloads\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\User\OneDrive\Desktop\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\user\Downloads\Microsoft.SkypeApp_kzf8qxf38zg5c!App\All\ConsumeWebAPI (2)\ConsumeWebAPI\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\Nitha\Downloads\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\Nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Divya\Divya's working\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\My Projects\ConsumeWebAPI Final\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\nitha\Downloads\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.AssemblyReference.cache
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\nitha\Downloads\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.deps.json
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\bin\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfoInputs.cache
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.AssemblyInfo.cs
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.csproj.CoreCompileInputs.cache
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.dll
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\refint\Customer.Service.Model.dll
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\Customer.Service.Model.pdb
+C:\Users\jithu\Downloads\cusweb\ConsumeWebAPI FullProject 2\ConsumeWebAPI trial\ConsumeWebAPI trial\ConsumeWebAPI reference\ConsumeWebAPI\Customer.Service.Model\obj\Debug\net6.0\ref\Customer.Service.Model.dll

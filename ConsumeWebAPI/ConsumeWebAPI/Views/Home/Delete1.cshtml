@@ -1,0 +1,28 @@
+﻿@model Customer.Service.Model.Customer
+
+@{
+    ViewData["Title"] = "Delete Customer";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete Customer</title>
+</head>
+<body>
+    <h1>Delete Customer</h1>
+
+    <h3>Are you sure you want to delete the following customer?</h3>
+    @using (Html.BeginForm("Delete", "Home", new { id = Model.Id }, FormMethod.Post))
+    {
+        <p><strong>Name:</strong> @Model.Name</p>
+        <p><strong>Age:</strong> @Model.Age</p>
+        <p><strong>Email:</strong> @Model.Email</p>
+        <p><strong>Phone:</strong> @Model.Phone</p>
+
+        <button type="submit">Delete</button>
+        <a href="/index">Cancel</a>
+    }
+</body>
+</html>

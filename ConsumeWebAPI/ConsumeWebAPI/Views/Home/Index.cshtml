@@ -1,0 +1,64 @@
+@model IEnumerable<Customer.Service.Model.Customer>
+
+@{
+    ViewData["Title"] = "User List";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>User List</title>
+</head>
+<body>
+    <h1>User List</h1>
+
+    @if (Model.Any())
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Age</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Country</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var user in Model)
+                {
+                    <tr>
+                        <td>@user.Name</td>
+                        <td>@user.Age</td>
+                        <td>@user.Email</td>
+                        <td>@user.Phone</td>
+                        <td>
+                            @if (user.Country == "GB")
+                            {
+                                <text>Great Britain</text>
+                            }
+                            else if (user.Country == "IT")
+                            {
+                                <text>Italy</text>
+                            }
+                            else
+                            {
+                                @user.Country
+                            }
+                        </td>
+                        <td><a href="/edit/@user.Id">Edit</a> | <a href="/delete/@user.Id">Delete</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <p>No users found.</p>
+    }
+
+    <a href="@Url.Action("Create")">Create New User</a>
+</body>
+</html>

@@ -1,0 +1,86 @@
+@model Customer.Service.Model.Customer
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Create Customer</title>
+</head>
+<body>
+    <h1>Create Customer</h1>
+
+    @using (Html.BeginForm("Create", "Home", FormMethod.Post))
+    {
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input class="form-control" id="name" name="Name" required>
+        </div>
+
+        <div class="form-group">
+            <label for="age">Age:</label>
+            <input class="form-control" id="age" name="Age" required>
+        </div>
+
+        <div class="form-group">
+            <label for="email">Email:</label>
+            <input class="form-control" id="email" name="Email" required>
+        </div>
+
+        <div class="form-group">
+            <label for="phone">Phone:</label>
+            <input class="form-control" id="phone" name="Phone" required>
+        </div>
+
+
+        <div class="form-group">
+            <label for="country">Country:</label>
+            <select class="form-control" id="country" name="Country" onchange="toggleAddressFields()">
+                <option value="">Select Country</option>
+                <option value="GB">Great Britain</option>
+                <option value="IT">Italy</option>
+
+
+            </select>
+        </div>
+
+        <div class="form-group" id="gb-address" style="display: none;">
+            <label for="address1">Address 1 (GB):</label>
+            <input class="form-control" id="address1_GB" name="Address1_GB">
+            <label for="address2">Address 2 (GB):</label>
+            <input class="form-control" id="address2_GB" name="Address2_GB">
+           
+        </div>
+
+        <div class="form-group" id="it-address" style="display: none;">
+            <label for="address1">Address 1 (IT):</label>
+            <input class="form-control" id="address1_IT" name="Address1_IT">
+            <label for="address2">Address 2 (IT):</label>
+            <input class="form-control" id="address2_IT" name="Address2_IT">
+            <label for="address3">Address 3 (IT):</label>
+            <input class="form-control" id="address3_IT" name="Address3_IT">
+        </div>
+
+        <button class="btn btn-primary" type="submit">Create</button>
+        <a href="@Url.Action("Index", "Home")">Back to Customer List</a>
+    }
+
+    <script>
+        function toggleAddressFields() {
+            var selectedCountry = document.getElementById("country").value;
+            var gbAddress = document.getElementById("gb-address");
+            var itAddress = document.getElementById("it-address");
+
+            if (selectedCountry === "GB") {
+                gbAddress.style.display = "block";
+                itAddress.style.display = "none";
+            } else if (selectedCountry === "IT") {
+                gbAddress.style.display = "none";
+                itAddress.style.display = "block";
+            } else {
+                gbAddress.style.display = "none";
+                itAddress.style.display = "none";
+            }
+        }
+    </script>
+</body>
+</html>
